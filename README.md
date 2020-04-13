@@ -1,4 +1,4 @@
-# semanaomnistack11
+# Semana Omnistack 11
 Projeto BeTheHero, referente a semana Omnistack 11 da Rocketseat.
 
 O projeto Be The Hero se trata de uma aplicação completa, desde o back-end até o front-end (web) e mobile, totalmente desenvolvida em
